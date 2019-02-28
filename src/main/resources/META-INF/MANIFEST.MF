@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Implementation-Title: cas-server-webapp-tomcat
+Implementation-Version: 5.3.8
+Archiver-Version: Plexus Archiver
+Built-By: Administrator
+Implementation-Date: 2019-02-08T09:09:31.638-07:00[America/Phoenix]
+Spring-Boot-Version: 1.5.18.RELEASE
+Implementation-Vendor: org.apereo.cas
+Main-Class: org.springframework.boot.loader.WarLauncher
+Start-Class: org.apereo.cas.web.CasWebApplication
+Spring-Boot-Classes: WEB-INF/classes/
+Spring-Boot-Lib: WEB-INF/lib/
+Created-By: org.apereo.cas
+Build-Jdk: 1.8.0_191
+Specification-Version: feff3cbaa5c0f5a719fb4cf1449eaeaa29f73462
+
